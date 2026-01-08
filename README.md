@@ -11,7 +11,7 @@
 Tonight is going great!!!
 
 Commit steps: 
-1. stage the changes(s)
+1. stage the change(s)
 2. add a message and commit the change(s)
 3. push the commit to Github
 
